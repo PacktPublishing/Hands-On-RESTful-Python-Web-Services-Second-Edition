@@ -1,0 +1,14 @@
+Flask==1.0.2
+flask-restful==0.3.6
+httpie==0.9.9
+Flask-SQLAlchemy==2.3.2
+Flask-Migrate==2.2.1
+marshmallow==2.16.0
+marshmallow-sqlalchemy==0.14.1
+flask-marshmallow==0.9.0
+psycopg2==2.7.5
+Flask-HTTPAuth==3.2.4
+passlib==1.7.1
+pytest==3.9.1
+coverage==4.5.1
+pytest-cov==2.6.0

@@ -1,0 +1,2 @@
+curl -iX POST -H "Content-Type: application/json" -d '{"name":"Battlefield V", "esrb_rating":"AO (Adults Only)", "release_date": "2017-05-01T01:02:00.776594Z"}' "localhost:8000/games/"
+curl -iX POST -H "Content-Type: application/json" -d '{"name":"Mutant Football League: Dynasty Edition", "esrb_rating":"AO (Adults Only)", "release_date": "2018-10-20T03:02:00.776594Z"}' "localhost:8000/games/"

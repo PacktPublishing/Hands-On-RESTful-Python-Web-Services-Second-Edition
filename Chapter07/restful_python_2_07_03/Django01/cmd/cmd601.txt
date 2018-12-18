@@ -1,0 +1,2 @@
+http -v ":8000/games/" "Accept:text/html"
+http -v ":8000/games/" "Accept:application/json"

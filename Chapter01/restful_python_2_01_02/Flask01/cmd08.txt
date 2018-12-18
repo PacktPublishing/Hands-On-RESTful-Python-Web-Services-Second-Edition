@@ -1,0 +1,1 @@
+curl -iX GET "localhost:5000/service/notifications/78"

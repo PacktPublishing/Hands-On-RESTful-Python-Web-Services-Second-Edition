@@ -1,0 +1,1 @@
+http PATCH ":8888/hexacopters/1" motor_speed_in_rpm=50

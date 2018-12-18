@@ -1,0 +1,1 @@
+http POST ":6543/metrics/" status='IDLE' speed_in_mph=1 altitude_in_feet=2 water_temperature_in_f=58

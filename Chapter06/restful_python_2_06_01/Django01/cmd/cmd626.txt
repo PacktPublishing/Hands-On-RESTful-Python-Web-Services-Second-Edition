@@ -1,0 +1,4 @@
+curl -iX POST -H "Content-Type: application/json" -d '{"score":"17500", "score_date":"2019-01-01T03:02:00.776594Z", "player":"Gaston Hillar", "game":"Battlefield V"}' "localhost:8000/player-scores/"
+curl -iX POST -H "Content-Type: application/json" -d '{"score":"3225", "score_date":"2019-01-01T01:02:00.776594Z", "player":"Gaston Hillar", "game":"Mutant Football League: Dynasty Edition"}' "localhost:8000/player-scores/"
+curl -iX POST -H "Content-Type: application/json" -d '{"score":"43200", "score_date":"2019-01-01T03:02:00.776594Z", "player":"Enzo Scocco", "game":"Battlefield V"}' "localhost:8000/player-scores/"
+curl -iX POST -H "Content-Type: application/json" -d '{"score":"17420", "score_date":"2019-01-01T05:02:00.776594Z", "player":"Enzo Scocco", "game":"Mutant Football League: Dynasty Edition"}' "localhost:8000/player-scores/"

@@ -1,0 +1,1 @@
+curl -iX OPTIONS "localhost:8000/games/2/"

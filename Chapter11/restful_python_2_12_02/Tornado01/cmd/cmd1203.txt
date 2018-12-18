@@ -1,0 +1,1 @@
+http PATCH ":8888/leds/2" brightness_level=128

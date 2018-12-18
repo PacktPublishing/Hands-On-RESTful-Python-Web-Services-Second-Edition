@@ -1,0 +1,1 @@
+http POST ":5000/service/notifications/" message='Working with PyCharm Professional' ttl=12 notification_category='Information'

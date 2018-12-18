@@ -1,0 +1,1 @@
+curl -iX PATCH -H "Content-Type: application/json" -d '{"motor_speed_in_rpm":50}' "localhost:8888/hexacopters/1"

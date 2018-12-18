@@ -1,0 +1,5 @@
+{
+   "message": "Calculating the most appropriate ambient temperature",
+   "ttl": 20,
+   "notification_category": "Warning"
+}

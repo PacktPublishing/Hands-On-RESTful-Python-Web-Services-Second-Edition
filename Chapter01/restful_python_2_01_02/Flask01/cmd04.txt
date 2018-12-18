@@ -1,0 +1,1 @@
+curl -iX POST -H "Content-Type: application/json" -d '{"message":"Ambient temperature is above the valid range", "ttl":15, "notification_category": "Warning"}' "localhost:5000/service/notifications/"

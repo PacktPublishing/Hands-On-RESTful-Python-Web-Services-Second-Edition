@@ -1,0 +1,1 @@
+1..6 | foreach { curl --user your_games_super_user:'WCS3qn!a4ybX#' -iX GET "localhost:8000/player-scores/" }

@@ -1,0 +1,1 @@
+1..6 | foreach { curl -iX GET "localhost:8000/player-scores/" }

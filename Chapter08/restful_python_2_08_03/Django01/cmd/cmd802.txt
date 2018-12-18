@@ -1,0 +1,1 @@
+curl -iX GET "localhost:8000/esrb-ratings/?description=T+(Teen)"

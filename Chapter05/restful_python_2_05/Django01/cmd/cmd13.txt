@@ -1,0 +1,1 @@
+http DELETE ":8000/games/4/"

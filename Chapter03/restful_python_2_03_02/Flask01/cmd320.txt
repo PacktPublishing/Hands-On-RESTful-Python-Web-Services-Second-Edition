@@ -1,0 +1,1 @@
+curl -iX POST -H "Content-Type: application/json" -d '{"name": "gaston-hillar", "wrongpassword": "brandonpassword"}' "localhost:5000/service/users/"

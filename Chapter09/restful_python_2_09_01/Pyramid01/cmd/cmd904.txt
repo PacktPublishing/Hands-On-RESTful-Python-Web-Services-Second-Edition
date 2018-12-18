@@ -1,0 +1,1 @@
+curl -iX POST -H "Content-Type: application/json" -d '{"status":"PADDLING", "speed_in_mph":3, "altitude_in_feet": 3, "water_temperature_in_f": 59}' "localhost:6543/metrics/"

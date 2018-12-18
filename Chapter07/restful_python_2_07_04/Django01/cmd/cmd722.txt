@@ -1,0 +1,1 @@
+curl -iX POST -H "Content-Type: application/json" -d '{"name":"Super Mario Odyssey", "esrb_rating":"T (Teen)", "release_date": "2017-10-27T01:00:00.776594Z"}' "localhost:8000/games/"

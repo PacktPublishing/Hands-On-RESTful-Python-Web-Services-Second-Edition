@@ -1,0 +1,1 @@
+1..6 | foreach { http http -a your_games_super_user:'WCS3qn!a4ybX#' ":8000/player-scores/" }

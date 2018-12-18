@@ -1,0 +1,1 @@
+curl --user 'gaston-hillar':'TTl#ID16^eplG' -iX GET "localhost:5000/service/notifications/?page=1"

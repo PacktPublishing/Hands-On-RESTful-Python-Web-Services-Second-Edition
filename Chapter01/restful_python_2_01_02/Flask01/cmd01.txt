@@ -1,0 +1,1 @@
+http POST ":5000/service/notifications/" message='eSports competition starts in 2 minutes' ttl=20 notification_category='Information'

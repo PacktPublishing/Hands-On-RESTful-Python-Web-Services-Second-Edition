@@ -1,0 +1,3 @@
+{
+    "brightness_level": 64
+}

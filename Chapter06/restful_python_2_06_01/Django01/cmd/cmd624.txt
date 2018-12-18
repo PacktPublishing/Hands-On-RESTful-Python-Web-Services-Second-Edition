@@ -1,0 +1,2 @@
+curl -iX POST -H "Content-Type: application/json" -d '{"name":"Gaston Hillar", "gender":"M"}' "localhost:8000/players/"
+curl -iX POST -H "Content-Type: application/json" -d '{"name":"Enzo Scocco", "gender":"M"}' "localhost:8000/players/"

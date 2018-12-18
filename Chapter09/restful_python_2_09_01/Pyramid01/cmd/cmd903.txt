@@ -1,0 +1,1 @@
+http POST ":6543/metrics/" status='PADDLING' speed_in_mph=3 altitude_in_feet=3 water_temperature_in_f=59

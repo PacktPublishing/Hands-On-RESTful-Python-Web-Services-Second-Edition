@@ -1,0 +1,1 @@
+curl -iX POST -H "Content-Type: application/json" -d '{"message":"Working with PyCharm Professional", "ttl":12, "notification_category": "Information"}' "localhost:5000/service/notifications/"

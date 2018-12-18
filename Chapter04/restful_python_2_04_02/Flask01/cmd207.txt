@@ -1,0 +1,1 @@
+http POST ":5000/service/notifications/" message='Score calculation error' ttl=30 notification_category="Error"

@@ -1,0 +1,1 @@
+http DELETE ":5000/service/notifications/2"

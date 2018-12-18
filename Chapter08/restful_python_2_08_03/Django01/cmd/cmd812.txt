@@ -1,0 +1,1 @@
+1..6 | foreach { http ":8000/player-scores/" }

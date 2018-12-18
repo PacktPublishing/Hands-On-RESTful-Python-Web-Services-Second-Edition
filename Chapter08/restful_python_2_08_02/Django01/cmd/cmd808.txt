@@ -1,0 +1,1 @@
+curl -iX GET "localhost:8000/player-scores/?from_score_date=2019-01-01&to_score_date=2019-01-31&min_score=17000&max_score=45000&ordering=-score"

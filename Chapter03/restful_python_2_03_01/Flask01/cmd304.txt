@@ -1,0 +1,1 @@
+curl -iX POST -H "Content-Type: application/json" -d '{"name":"Error"}' "localhost:5000/service/notification_categories/"

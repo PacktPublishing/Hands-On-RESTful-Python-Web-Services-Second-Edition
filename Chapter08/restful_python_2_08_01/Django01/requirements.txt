@@ -1,0 +1,8 @@
+Django==2.1.2
+djangorestframework==3.9.0
+httpie==0.9.9
+psycopg2==2.7.5
+django-filter==2.0.0
+pytest==3.9.3
+coverage==4.5.1
+pytest-cov==2.6.0

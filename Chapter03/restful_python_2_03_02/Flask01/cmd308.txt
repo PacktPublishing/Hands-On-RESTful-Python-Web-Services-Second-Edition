@@ -1,0 +1,1 @@
+curl -iX PATCH -H "Content-Type: application/json" -d '{"displayed_once":"true", "displayed_times":1}' "localhost:5000/service/notifications/2"

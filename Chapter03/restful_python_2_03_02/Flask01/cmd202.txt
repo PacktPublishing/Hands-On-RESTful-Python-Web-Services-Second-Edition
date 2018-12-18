@@ -1,0 +1,2 @@
+curl -iX POST -H "Content-Type: application/json" -d '{"name":"Information"}' "localhost:5000/service/categories/"
+curl -iX POST -H "Content-Type: application/json" -d '{"name":"Warning"}' "localhost:5000/service/categories/"

@@ -1,0 +1,1 @@
+curl -iX POST -H "Content-Type: application/json" -d '{"name":"LEGO DC Super-Villains", "esrb_rating":"EC (Early Childhood)", "release_date": "2018-01-10T03:02:00.776594Z"}' "localhost:8000/games/"

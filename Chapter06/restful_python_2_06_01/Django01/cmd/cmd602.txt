@@ -1,0 +1,2 @@
+curl -H "Accept: text/html" -viX GET "localhost:8000/games/"
+curl -H "Accept: application/json" -viX GET "localhost:8000/games/"

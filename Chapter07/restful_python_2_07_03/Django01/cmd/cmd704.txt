@@ -1,0 +1,1 @@
+curl -iX PATCH -H "Content-Type: application/json" -d '{"played_once":"true", "played_times": 10}' "localhost:8000/games/2/"

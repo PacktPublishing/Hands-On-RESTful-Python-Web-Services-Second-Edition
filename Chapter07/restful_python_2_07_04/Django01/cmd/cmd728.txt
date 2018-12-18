@@ -1,0 +1,1 @@
+curl --user 'gaston-hillar':'FG$gI^76q#yA3v' -iX GET "localhost:8000/games/13/"

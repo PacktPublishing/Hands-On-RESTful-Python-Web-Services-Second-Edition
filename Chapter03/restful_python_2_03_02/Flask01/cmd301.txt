@@ -1,0 +1,1 @@
+http POST ":5000/service/notification_categories/" name='Warning'

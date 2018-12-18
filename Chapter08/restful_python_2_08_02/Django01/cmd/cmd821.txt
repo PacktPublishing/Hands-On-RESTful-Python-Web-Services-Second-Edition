@@ -1,0 +1,1 @@
+for i in {1..25}; do curl -iX GET "localhost:8000/esrb-ratings/"; done;

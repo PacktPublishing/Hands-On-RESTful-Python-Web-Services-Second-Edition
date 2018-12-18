@@ -1,0 +1,3 @@
+pyramid==1.10
+cookiecutter==1.6.0
+httpie==0.9.9

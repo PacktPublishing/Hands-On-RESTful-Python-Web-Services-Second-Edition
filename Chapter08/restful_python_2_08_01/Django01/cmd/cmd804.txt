@@ -1,0 +1,1 @@
+curl -iX GET "localhost:8000/games/?esrb_rating=1&played_times=10&ordering=-release_date"

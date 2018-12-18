@@ -1,0 +1,1 @@
+http POST ":5000/service/notifications/" message='Ambient temperature is above the valid range' ttl=15 notification_category='Warning'
