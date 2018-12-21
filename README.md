@@ -51,7 +51,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Gaston C Hillar**
-Gaston C. Hillar is Italian and has been working with computers since he was 8 years old. Gaston has a Bachelor's degree in computer science (graduated with honors) and an MBA.
+is Italian and has been working with computers since he was 8 years old. Gaston has a Bachelor's degree in computer science (graduated with honors) and an MBA.
 
 Currently, Gaston is an independent IT consultant and a freelance author who is always looking for new adventures anywhere in the world.
 
