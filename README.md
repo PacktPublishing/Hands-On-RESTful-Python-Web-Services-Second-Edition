@@ -36,20 +36,11 @@ patch_response_hexacopter_3 = await http_server_client.fetch(
 **Following is what you need for this book:**
 This book is for web developers who have working knowledge of Python and would like to build amazing web services by taking advantage of the various frameworks of Python. You should have some knowledge of RESTful APIs.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
 ### Software and Hardware List
-| Chapter | Software required | OS required |
+| Chapter | Software required | Hardware required |
 | -------- | ------------------------------------ | ----------------------------------- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 1-11 | Python 3.7 |  Intel Core i3 or higher CPU and at least 4 GB RAM |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789532227_ColorImages.pdf).
 
