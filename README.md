@@ -58,10 +58,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Learn Python Programming - Second Edition [[Packt]](https://www.packtpub.com/application-development/learn-python-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788996662 ) [[Amazon]](https://www.amazon.com/dp/1788996666)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
 ## Get to Know the Author
 **Gaston C Hillar**
 Gaston C. Hillar is Italian and has been working with computers since he was 8 years old. Gaston has a Bachelor's degree in computer science (graduated with honors) and an MBA.
@@ -72,28 +68,12 @@ He was a senior contributing editor at Dr. Dobb's, and has written more than a h
 
 Gaston was also a former Microsoft MVP in technical computing. He lives with his wife, Vanesa, and his two sons, Kevin and Brandon.
 
-****
-0
-
-****
-0
-
-****
-0
-
-****
-0
 
 ## Other books by the authors
 [Hands-On MQTT Programming with Python](https://www.packtpub.com/application-development/hands-mqtt-programming-python?utm_source=github&utm_medium=repository&utm_campaign=9781789138542 )
 
 [Guide to NoSQL with Azure Cosmos DB](https://www.packtpub.com/big-data-and-business-intelligence/guide-nosql-azure-cosmos-db?utm_source=github&utm_medium=repository&utm_campaign=9781789612899 )
 
-[]()
-
-[]()
-
-[]()
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
