@@ -1,6 +1,6 @@
 # Hands-On RESTful Python Web Services - Second Edition
 
-<a href="https://www.packtpub.com/application-development/hands-restful-python-web-services-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789532227 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11673_MockupCover_0.png" alt="Hands-On RESTful Python Web Services - Second Edition" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/application-development/hands-restful-python-web-services-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789532227 "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11673-cover-new.png" alt="Hands-On RESTful Python Web Services - Second Edition" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On RESTful Python Web Services - Second Edition](https://www.packtpub.com/application-development/hands-restful-python-web-services-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789532227 ), published by Packt.
 
