@@ -3,7 +3,7 @@ attrs==18.2.0
 certifi==2018.10.15
 chardet==3.0.4
 coverage==4.5.1
-Django==2.1.2
+Django==2.2.10
 django-filter==2.0.0
 djangorestframework==3.9.0
 httpie==0.9.9
