@@ -23,7 +23,7 @@ class NotificationResource(Resource):
         if 'message' in notification_dict and notification_dict['message'] is not None:
             notification.message = notification_dict['message']
         if 'ttl' in notification_dict and notification_dict['ttl'] is not None:
-            notification.duration = notification_dict['duration']
+            notification.ttl = notification_dict['ttl']
         if 'displayed_times' in notification_dict and notification_dict['displayed_times'] is not None:
             notification.displayed_times = notification_dict['displayed_times']
         if 'displayed_once' in notification_dict and notification_dict['displayed_once'] is not None:
@@ -107,7 +107,7 @@ class NotificationCategoryResource(Resource):
         if errors:
             return errors, HttpStatus.bad_request_400.value
         try:
-            if 'name' in notification_category_dict and notification_category_dic['name'] is not None:
+            if 'name' in notification_category_dict and notification_category_dict['name'] is not None:
                 notification_category.name = notification_category_dict['name']
             notification_category.update()
             return self.get(id)
