@@ -1,4 +1,4 @@
 Django==2.1.2
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 httpie==0.9.9
 psycopg2==2.7.5
